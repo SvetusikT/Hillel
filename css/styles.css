@@ -4,12 +4,6 @@ body {
     margin: 40px auto;
 }
 
-.about-me-profession {
-    font-size: 14px;
-    font-weight: 700;
-    color: #000;
-}
-
 .main-container-section {
     display: flex;
     flex-direction: row-reverse;
