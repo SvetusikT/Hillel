@@ -244,20 +244,20 @@ padding: 0 0 0 17px;
     vertical-align: middle
 }
 
-/* Tech skills section */
-.tech-skills-section {
+/* language section */
+.language-section {
     margin: 50px 0 0 40px;
 }
-.tech-skills-list {
+.language-list {
     padding: 0 0 0 18px;
     
 }
 
-.tech-skills-item {
+.language-item {
     color: #FB6D3A;
 }
 
-.tech-skills-item-text {
+.language-item-text {
     color: #fff;
     font-style: normal;
     font-weight: normal;
